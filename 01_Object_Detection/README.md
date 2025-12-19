@@ -4,3 +4,4 @@ This folder contains results from the initial internship tasks where I used pre-
 ### Workflow:
 - **INFERENCE**: Ran detection on individual images and batch folders.
 - **METRICS**: Evaluated model performance using built-in validation tools.
+- **WEIGHTS**: The trained `.pt` model file for detection.
