@@ -1,5 +1,5 @@
 # Official log and assignments for the IIIT Hyderabad 2025-26 Computer Vision Internship.
-# Computer Vision Internship Portfolio: IIIT Hyderabad (2025-26)
+# Computer Vision Internship Portfolio:
 
 ## 📋 Internship Overview
 This repository documents my technical progression in Computer Vision, ranging from basic CLI-based inference to the development of a high-precision custom UAV detection system.
