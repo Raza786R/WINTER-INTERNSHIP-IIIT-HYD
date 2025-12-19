@@ -29,4 +29,4 @@ The high Recall score (99.1%) is critical for aviation safety, ensuring that alm
 
 ## 💻 Source Code
 The complete end-to-end training workflow, including dataset preparation and model optimization, is available in the Jupyter Notebook:
-* **[View Training Notebook](https://github.com/Raza786R/WINTER-INTERNSHIP-IIIT-HYD/blob/main/PROJECT%3A_Enhanced_Aerial_Object_Detection_for_Aviation/notebooks/UAV_Detection_YOLOv8_Training%20.ipynb)**
+* **[View Training Notebook](https://github.com/Raza786R/WINTER-INTERNSHIP-IIIT-HYD/blob/main/03_Project_Enhanced_Aerial_Object_Detection_for_Aviation/notebooks/UAV_Detection_YOLOv8_Training%20.ipynb)**
