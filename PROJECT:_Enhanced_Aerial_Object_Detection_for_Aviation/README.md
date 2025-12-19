@@ -26,3 +26,7 @@ As shown in the performance curves below, the model demonstrated rapid convergen
 
 ## 🧠 Research Insights
 The high Recall score (99.1%) is critical for aviation safety, ensuring that almost no aerial objects are missed by the system. The steady decline of the loss curves confirms the model's ability to generalize well to new data without overfitting.
+
+## 💻 Source Code
+The complete end-to-end training workflow, including dataset preparation and model optimization, is available in the Jupyter Notebook:
+* **[View Training Notebook](./notebooks/UAV_Detection_Training.ipynb)**
