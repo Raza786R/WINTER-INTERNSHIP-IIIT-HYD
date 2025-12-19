@@ -1,0 +1,6 @@
+names:
+- drone
+nc: 1
+path: /content/uav_data/drone_dataset_yolo/dataset_txt
+train: train/images
+val: train/images
