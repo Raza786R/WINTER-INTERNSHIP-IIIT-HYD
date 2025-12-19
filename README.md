@@ -12,4 +12,4 @@ This repository documents my technical progression in Computer Vision, ranging f
 ## 📂 Project Navigation
 1. **[Detection Tasks](./01_Object_Detection)**: Inference results and performance matrices.
 2. **[Segmentation Tasks](./02_Image_Segmentation)**: Semantic mask generation results.
-3. **[Enhanced Aerial Object Detection](./PROJECT:_Enhanced_Aerial_Object_Detection_for_Aviation)**: Full documentation of the custom-trained drone model.
+3. **[ENHANCED AERIAL OBJECT DETECTION FOR AVIATION](./03_Project_Enhanced_Aerial_Object_Detection_for_Aviation)**: Full documentation of the custom-trained drone model.
